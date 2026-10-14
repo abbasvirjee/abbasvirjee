@@ -12,6 +12,8 @@ My repositories are private because they contain proprietary code or work develo
 
 **OneVoice** is an AI voice and chat support agent built with Gemini Live and Gemini 2.5. It connects to a troubleshooting knowledge base and Salesforce to support issue diagnosis, resolution, and escalation. Working prototype.
 
+**AVRO Admin 2.0:** is an internal application developed at ITC Systems using Claude-assisted development, with structured prompts, project context, architecture guidance, and review of generated code.
+
 **courtScore** is tournament software for pickleball and badminton, live at [courtscore.ca](https://courtscore.ca). Built with Flask and PostgreSQL, deployed on Railway, with Cloudflare infrastructure.
 
 **BlackAdder** is a retrieval-augmented generation (RAG) knowledge-management system built as a McMaster capstone project. It supports semantic search, document workflows, role-based access, and answers grounded in organizational documents.
